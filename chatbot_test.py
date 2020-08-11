@@ -41,11 +41,11 @@ pairs = [
     ],
     [
         r"(.*) created ?",
-        ["Nagesh created me using Python's NLTK library ", "top secret ;)", ]
+        ["Rohan Hadvani created me using Python's NLTK library ", "top secret ;)", ]
     ],
     [
         r"(.*) (location|city) ?",
-        ['Chennai, Tamil Nadu', ]
+        ['Vadodara, Gujarat', ]
     ],
     [
         r"how is weather in (.*)?",
@@ -69,7 +69,7 @@ pairs = [
     ],
     [
         r"who (.*) sportsperson ?",
-        ["Messy", "Ronaldo", "Roony"]],
+        ["Messi", "Ronaldo", "Zlatan"]],
     [
         r"who (.*) (moviestar|actor)?",
         ["Brad Pitt"]],
